@@ -1,0 +1,30 @@
+item {
+    name: "Abscess",
+    id: 1,
+    display_name: "Abscess"
+}
+item {
+    name: "Caries",
+    id: 2,
+    display_name: "Caries"
+}
+item {
+    name: "ImpactedTooth",
+    id: 3,
+    display_name: "ImpactedTooth"
+}
+item {
+    name: "PeriodontalDisease",
+    id: 4,
+    display_name: "PeriodontalDisease"
+}
+item {
+    name: "RootPiece",
+    id: 5,
+    display_name: "RootPiece"
+}
+item {
+    name: "noDisease",
+    id: 6,
+    display_name: "noDisease"
+}
